@@ -287,5 +287,23 @@ if __name__ == '__main__':
 	main()
 
 
+"""
+Hämta 
+ssh niza9129@gullviva.it.uu.se
+pwd
+ls
+git clone https://github.com/nikzam3/MA3.py.git
+cd MA3.py
+ls
+python3 MA3.py
+bash tests.sh
+"""
 
-# ssh niza9129@gullviva.it.uu.se
+"""
+Använd
+ssh niza9129@gullviva.it.uu.se
+cd MA3.py
+git pull --rebase origin main
+python3 MA3.py
+bash tests.sh
+"""
